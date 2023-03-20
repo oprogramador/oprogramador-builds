@@ -23,6 +23,7 @@
 | [open-source-programming-languages](https://github.com/oprogramador/open-source-programming-languages) | [![Build Status](https://travis-ci.com/oprogramador/open-source-programming-languages.svg?branch=master)](https://travis-ci.com/github/oprogramador/open-source-programming-languages/branches) |
 | [random-weighted-item](https://github.com/oprogramador/random-weighted-item) | [![Build Status](https://travis-ci.com/oprogramador/random-weighted-item.svg?branch=master)](https://travis-ci.com/github/oprogramador/random-weighted-item/branches) |
 | [read-json-lines-sync](https://github.com/oprogramador/read-json-lines-sync) | [![Build Status](https://travis-ci.com/oprogramador/read-json-lines-sync.svg?branch=master)](https://travis-ci.com/github/oprogramador/read-json-lines-sync/branches) |
+| [sort-any](https://github.com/oprogramador/sort-any) | [![Build Status](https://travis-ci.com/oprogramador/sort-any.svg?branch=master)](https://travis-ci.com/github/oprogramador/sort-any/branches) |
 | [to-sentence-case-with-dot](https://github.com/oprogramador/to-sentence-case-with-dot) | [![Build Status](https://travis-ci.com/oprogramador/to-sentence-case-with-dot.svg?branch=master)](https://travis-ci.com/github/oprogramador/to-sentence-case-with-dot/branches) |
 | [user-service-golang](https://github.com/oprogramador/user-service-golang) | [![Build Status](https://travis-ci.com/oprogramador/user-service-golang.svg?branch=master)](https://travis-ci.com/github/oprogramador/user-service-golang/branches) |
 
